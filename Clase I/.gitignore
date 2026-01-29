@@ -1,0 +1,21 @@
+# Compiled binaries
+a.out
+app
+
+# Debug symbols (macOS / Xcode / clang)
+*.dSYM/
+a.out.dSYM/
+app.dSYM/
+
+# Object files
+*.o
+*.obj
+
+# Build directories (if you add them later)
+build/
+bin/
+
+# Editor / OS junk
+.DS_Store
+.vscode/
+.idea/
