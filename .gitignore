@@ -1,0 +1,8 @@
+@"
+.vs/
+**/.vs/
+ipch/
+*.ipch
+[Bb]in/
+[Oo]bj/
+"@ | Out-File -Encoding utf8 .gitignore -Append
