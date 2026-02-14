@@ -1,0 +1,3 @@
+﻿  sort.cpp
+C:\Users\elarrea\source\repos\Infor-II\Punteros\Exer1\Exer1\sort.cpp(5,6): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  Exer1.vcxproj -> C:\Users\elarrea\source\repos\Infor-II\Punteros\Exer1\ARM64\Debug\Exer1.exe
