@@ -1,0 +1,3 @@
+﻿  funcs.cpp
+C:\Users\elarrea\source\repos\Infor-II\Practica evaluada 1\ComprimirInformacion\ComprimirInformacion\funcs.cpp(8,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  ComprimirInformacion.vcxproj -> C:\Users\elarrea\source\repos\Infor-II\Practica evaluada 1\ComprimirInformacion\ARM64\Debug\ComprimirInformacion.exe

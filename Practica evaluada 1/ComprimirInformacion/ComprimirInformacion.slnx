@@ -4,5 +4,5 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
-  <Project Path="Numeros_amigos/Numeros_amigos.vcxproj" Id="bb8e4385-34e9-4523-ac04-421b71e672ed" />
+  <Project Path="ComprimirInformacion/ComprimirInformacion.vcxproj" />
 </Solution>
