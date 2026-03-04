@@ -1,0 +1,6 @@
+﻿  funcs.cpp
+C:\Users\elarrea\source\repos\Infor-II\Practica evaluada 1\Control_de_gastos\Control_de_gastos\funcs.hpp(1,13): warning C4081: expected 'newline'; found ';'
+  (compiling source file 'funcs.cpp')
+  
+C:\Users\elarrea\source\repos\Infor-II\Practica evaluada 1\Control_de_gastos\Control_de_gastos\funcs.cpp(20,18): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  Control_de_gastos.vcxproj -> C:\Users\elarrea\source\repos\Infor-II\Practica evaluada 1\Control_de_gastos\ARM64\Debug\Control_de_gastos.exe
