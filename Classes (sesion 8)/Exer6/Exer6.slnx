@@ -1,0 +1,8 @@
+<Solution>
+  <Configurations>
+    <Platform Name="ARM64" />
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Exer6/Exer6.vcxproj" Id="23fb6a84-afa4-4766-92c9-f6b95b100b22" />
+</Solution>

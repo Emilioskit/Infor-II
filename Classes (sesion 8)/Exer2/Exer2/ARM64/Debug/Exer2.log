@@ -1,0 +1,3 @@
+﻿C:\Program Files\Microsoft Visual Studio\18\Insiders\MSBuild\Microsoft\VC\v180\Microsoft.CppBuild.targets(551,5): warning MSB8028: The intermediate directory (ARM64\Debug\) contains files shared from another project (Exer2.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  main.cpp
+  Exer2.vcxproj -> C:\Users\elarrea\source\repos\Infor-II\Classes (sesion 8)\Exer2\ARM64\Debug\Exer2_3_4.exe
