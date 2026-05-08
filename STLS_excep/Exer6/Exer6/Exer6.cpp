@@ -35,9 +35,9 @@ int main()
     /*vector<vehicle>::iterator it1 = lst.begin();
     it1++;*/
 
-    //IMPORTANT!!! aut is the same as (vector<vehicle>::iterator)
+    //IMPORTANT!!! auto is the same as (vector<vehicle>::iterator)
     for (auto it = lst.begin(); it != lst.end(); it++) {
-        vehicle v = *it;
+        vehicle v = *it; //like dereference!
         v.prt();
     }
 
