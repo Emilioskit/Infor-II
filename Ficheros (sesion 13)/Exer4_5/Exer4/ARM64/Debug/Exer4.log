@@ -1,0 +1,4 @@
+﻿  Exer4.cpp
+C:\Users\elarrea\source\repos\Infor-II\Ficheros (sesion 13)\Exer4\Exer4\Exer4.cpp(17,11): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\elarrea\source\repos\Infor-II\Ficheros (sesion 13)\Exer4\Exer4\Exer4.cpp(24,11): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Exer4.vcxproj -> C:\Users\elarrea\source\repos\Infor-II\Ficheros (sesion 13)\Exer4\ARM64\Debug\Exer4.exe
