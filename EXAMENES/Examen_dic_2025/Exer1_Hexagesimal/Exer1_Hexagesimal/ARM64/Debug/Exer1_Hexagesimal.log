@@ -1,0 +1,4 @@
+﻿  funcs.cpp
+C:\Users\elarrea\source\repos\Infor-II\EXAMENES\Examen_dic_2025\Exer1_Hexagesimal\Exer1_Hexagesimal\funcs.cpp(36,9): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\elarrea\source\repos\Infor-II\EXAMENES\Examen_dic_2025\Exer1_Hexagesimal\Exer1_Hexagesimal\funcs.cpp(50,9): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  Exer1_Hexagesimal.vcxproj -> C:\Users\elarrea\source\repos\Infor-II\EXAMENES\Examen_dic_2025\Exer1_Hexagesimal\ARM64\Debug\Exer1_Hexagesimal.exe

@@ -1,0 +1,8 @@
+<Solution>
+  <Configurations>
+    <Platform Name="ARM64" />
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Exer1_Hexagesimal/Exer1_Hexagesimal.vcxproj" Id="712bf386-8289-4312-be88-768ee8eb4083" />
+</Solution>
