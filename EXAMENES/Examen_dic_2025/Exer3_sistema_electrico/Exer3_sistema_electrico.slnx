@@ -1,0 +1,8 @@
+<Solution>
+  <Configurations>
+    <Platform Name="ARM64" />
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Exer3_sistema_electrico/Exer3_sistema_electrico.vcxproj" Id="5e1fb2f2-4388-4adc-9e02-0a3e4555ae5b" />
+</Solution>

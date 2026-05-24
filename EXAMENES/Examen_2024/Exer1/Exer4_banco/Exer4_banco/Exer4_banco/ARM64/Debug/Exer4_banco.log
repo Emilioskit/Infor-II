@@ -1,0 +1,5 @@
+﻿  Exer4_banco.cpp
+C:\Users\elarrea\source\repos\Infor-II\EXAMENES\Examen_2024\Exer1\Exer4_banco\Exer4_banco\Exer4_banco\Exer4_banco.cpp(12,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  funcs.cpp
+  Generating Code...
+  Exer4_banco.vcxproj -> C:\Users\elarrea\source\repos\Infor-II\EXAMENES\Examen_2024\Exer1\Exer4_banco\Exer4_banco\ARM64\Debug\Exer4_banco.exe

@@ -1,0 +1,6 @@
+﻿  funcs.cpp
+  main.cpp
+C:\Users\elarrea\source\repos\Infor-II\EXAMENES\Examen_dic_2025\Exer2_poligomos\Exer2_poligomos\main.cpp(20,11): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\elarrea\source\repos\Infor-II\EXAMENES\Examen_dic_2025\Exer2_poligomos\Exer2_poligomos\main.cpp(21,12): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  Generating Code...
+  Exer2_poligomos.vcxproj -> C:\Users\elarrea\source\repos\Infor-II\EXAMENES\Examen_dic_2025\Exer2_poligomos\ARM64\Debug\Exer2_poligomos.exe
